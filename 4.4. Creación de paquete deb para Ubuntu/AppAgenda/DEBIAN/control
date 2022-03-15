@@ -1,0 +1,8 @@
+Package: AppAgenda
+Version: 202202
+Section: office
+Priority: optional
+Architecture: all
+Maintainer: profesora <acg.ieslosmontecillos@gmail.com>
+Installed-Size: 340900
+Description: Aplicación para la gestión de una agenda personal

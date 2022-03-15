@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=AppAgenda
+Comment=Aplicación para la gestión de una agenda personal
+Icon=/opt/AppAgenda/Fotos/AppAgenda.png
+Terminal=false
+Exec=AppAgenda
+Actions=
+Categories=office;

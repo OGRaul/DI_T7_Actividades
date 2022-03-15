@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Tue Mar 15 11:14:08 CET 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017f-8d12-1bdb-000003bcc6d0 
+on database directory /opt/AppAgenda/BDAgenda with class loader sun.misc.Launcher$AppClassLoader@6d06d69c 
+Loaded from file:/opt/AppAgenda/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_202-b08
+user.dir=/opt/AppAgenda
+os.name=Linux
+os.arch=amd64
+os.version=5.15.23-76051523-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Mar 15 11:14:10 CET 2022:
+Shutting down instance a816c00e-017f-8d12-1bdb-000003bcc6d0 on database directory /opt/AppAgenda/BDAgenda with class loader sun.misc.Launcher$AppClassLoader@6d06d69c 
